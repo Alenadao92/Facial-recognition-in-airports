@@ -2,7 +2,8 @@
 [Facial recognition in airports](https://gigasource.io/biometric-facial-recognition-in-airports/)
 Our facial recognition in airports works extremely fast and accurate. Giga can recognize 99% of faces even in poor quality images. It just takes 0.001s.
 
-Download here: https://gigasource.io/biometric-facial-recognition-in-airports/
+Download here: https://gigasource.io/biometric-facial-recognition-in-airports/.
+
 ![Face recognition in airport](https://gigasource.b-cdn.net/wp-content/uploads/2020/03/make-operate-smoothly.jpg)
 ## Extremely Fast & Accuracy
 Our facial recognition attendance software works extremely fast and accurate. Giga can recognize 99% of faces even in poor quality images. It just takes 0.001s to recognize image.
