@@ -1,5 +1,5 @@
 # Facial-recognition-in-airports-free-download-face-attendance-app
-[Facial recognition in airports](https://gigasource.io/biometric-facial-recognition-in-airports/) free download face attendance app
+[Facial recognition in airports](https://gigasource.io/biometric-facial-recognition-in-airports/)
 Our facial recognition in airports works extremely fast and accurate. Giga can recognize 99% of faces even in poor quality images. It just takes 0.001s
 
 ## Extremely Fast & Accuracy
